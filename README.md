@@ -62,7 +62,7 @@
 ---
 
 ## 🔗 Links Úteis
-* 🌐 **Site publicado:** [Acesse o portfólio](https://gabrielcarvalhosoa.github.io/NOME-DO-REPOSITORIO/)
+* 🌐 **Site publicado:** [Acesse o portfólio](https://gabrielcarvalhosoa.github.io/)
   > 💻 **Descrição:** Versão em produção, hospedada gratuitamente no GitHub Pages.
 * 🎨 **Protótipo no Figma:** [Veja os wireframes](https://cost-shut-59741518.figma.site/)
   > 🖼️ **Descrição:** Wireframes de média fidelidade das versões desktop e mobile feitas a partir dos Wireframes em SVG.
