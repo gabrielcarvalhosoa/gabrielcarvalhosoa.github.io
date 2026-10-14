@@ -22,7 +22,7 @@ const TEXTOS = {
     h_contato: "Contato", contato_intro: "Fale comigo por um dos canais abaixo ou envie uma mensagem pelo formulário.",
     contato_aria: "Meios de contato", curriculo: "Baixar currículo",
     lbl_nome: "Nome", lbl_email: "E-mail", lbl_mensagem: "Mensagem", enviar: "Enviar mensagem",
-    rodape: "© 2026 Gabriel Carvalho Soares. Todos os direitos reservados.",
+    rodape: "© 2026 Gabriel Carvalho Soares. Licenciado sob a <a href='https://github.com/gabrielcarvalhosoa/Portfolio-Profissional/blob/main/LICENSE' target='_blank'>Licença MIT</a>.",
     erro_vazio: "Preencha este campo.", erro_nome: "Digite seu nome.",
     erro_email: "Digite um e-mail válido, como nome@exemplo.com.",
     erro_mensagem: "Escreva uma mensagem com pelo menos 10 caracteres.",
@@ -52,7 +52,7 @@ const TEXTOS = {
     h_contato: "Contact", contato_intro: "Reach me through any of the channels below or send a message using the form.",
     contato_aria: "Contact methods", curriculo: "Download résumé",
     lbl_nome: "Name", lbl_email: "Email", lbl_mensagem: "Message", enviar: "Send message",
-    rodape: "© 2026 Gabriel Carvalho Soares. All rights reserved.",
+    rodape: "© 2026 Gabriel Carvalho Soares. Licensed under the <a href='https://github.com/gabrielcarvalhosoa/Portfolio-Profissional/blob/main/LICENSE' target='_blank'>MIT License</a>.",
     erro_vazio: "Please fill in this field.", erro_nome: "Please enter your name.",
     erro_email: "Please enter a valid email, like name@example.com.",
     erro_mensagem: "Please write a message with at least 10 characters.",
@@ -391,7 +391,7 @@ function aplicarIdioma(novo) {
   document.querySelector('meta[name="description"]').content = D.descricao_pagina;
 
   // Textos fixos do HTML
-  document.querySelectorAll("[data-i18n]").forEach(el => { el.textContent = D[el.dataset.i18n]; });
+  document.querySelectorAll("[data-i18n]").forEach(el => { el.innerHTML = D[el.dataset.i18n]; });
   document.querySelectorAll("[data-i18n-aria]").forEach(el => el.setAttribute("aria-label", D[el.dataset.i18nAria]));
   document.querySelectorAll("[data-i18n-alt]").forEach(el => { el.alt = D[el.dataset.i18nAlt]; });
   document.querySelector(".carrossel").setAttribute("aria-roledescription", novo === "pt" ? "carrossel" : "carousel");
