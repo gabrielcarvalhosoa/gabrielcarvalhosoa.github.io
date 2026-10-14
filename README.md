@@ -55,6 +55,7 @@
 - [Testes](#-testes)
 - [Documentações utilizadas](#-documentações-utilizadas)
 - [Autores](#-autores)
+- [Contribuição](#-contribuição)
 - [Agradecimentos](#-agradecimentos)
 - [Licença](#-licença)
 
@@ -320,6 +321,6 @@ Por ser um site estático, não há testes automatizados nesta versão. Verifica
 
 ## 📄 Licença
 
-Este projeto é distribuído sob a **[Licença MIT](LICENSE)**.
+© 2026 Gabriel Carvalho Soares. Todos os direitos reservados.
 
 ---
