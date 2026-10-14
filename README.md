@@ -55,7 +55,6 @@
 - [Testes](#-testes)
 - [Documentações utilizadas](#-documentações-utilizadas)
 - [Autores](#-autores)
-- [Contribuição](#-contribuição)
 - [Agradecimentos](#-agradecimentos)
 - [Licença](#-licença)
 
