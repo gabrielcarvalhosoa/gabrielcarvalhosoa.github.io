@@ -320,6 +320,6 @@ Por ser um site estático, não há testes automatizados nesta versão. Verifica
 
 ## 📄 Licença
 
-Este projeto é distribuído sob a **[Licença MIT](https://github.com/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software/blob/main/LICENSE)**.
+Este projeto é distribuído sob a **[Licença MIT](LICENSE)**.
 
 ---
