@@ -10,7 +10,7 @@
   <tr>
     <td width="800px">
       <div align="justify">
-        Este projeto é o <b>Laboratório 01</b> da disciplina de <b>Desenvolvimento de Interfaces Web (DIW)</b>, do curso de Ciência da Computação da PUC Minas. O site é totalmente <b>bilíngue</b> (português e inglês, com troca pelo cabeçalho) e apresenta uma <i>linha do tempo de projetos</i> (do mais antigo ao mais recente) com imagem ou GIF, as <i>experiências</i>, as <i>habilidades</i>, a <i>formação</i> e uma página de <i>contato</i> com ícones e formulário de envio por e-mail. É feito com <b>HTML, CSS e JavaScript puros</b>, sem framework, e publicado gratuitamente na nuvem.
+        Este projeto é o <b>Laboratório 01</b> da disciplina de <b>Desenvolvimento de Interfaces Web (DIW)</b>, do curso de Ciência da Computação da PUC Minas. O site é totalmente <b>bilíngue</b> (português e inglês, com troca pelo cabeçalho) e apresenta uma <i>linha do tempo de projetos</i> (do mais antigo ao mais recente) com imagem ou GIF, as <i>experiências</i>, as <i>habilidades</i> e uma página de <i>contato</i> com ícones e formulário de envio por e-mail. É feito com <b>HTML, CSS e JavaScript puros</b>, sem framework, e publicado gratuitamente no <b>GitHub Pages</b>.
       </div>
     </td>
     <td>
@@ -23,15 +23,15 @@
 
 ---
 
-## 🚧 Status do Projeto
+## ✅ Status do Projeto
 
-![Status](https://img.shields.io/badge/Status-Em_desenvolvimento-007ec6?style=for-the-badge) ![Versão](https://img.shields.io/badge/Versão-v1.0.0-007ec6?style=for-the-badge) ![HTML5](https://img.shields.io/badge/HTML5-007ec6?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-007ec6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-007ec6?style=for-the-badge&logo=javascript&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-007ec6?style=for-the-badge&logo=github&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/gabrielcarvalhosoa/NOME-DO-REPOSITORIO?style=for-the-badge&logo=clockify)
+![Status](https://img.shields.io/badge/Status-Concluído-2ea44f?style=for-the-badge) ![Versão](https://img.shields.io/badge/Versão-v1.0.0-007ec6?style=for-the-badge) ![HTML5](https://img.shields.io/badge/HTML5-007ec6?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-007ec6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-007ec6?style=for-the-badge&logo=javascript&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-007ec6?style=for-the-badge&logo=github&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/gabrielcarvalhosoa/gabrielcarvalhosoa.github.io?style=for-the-badge&logo=clockify)
 
 | Etapa | Entrega | Situação |
 | :--- | :--- | :---: |
 | **S01** | Repositório, wireframes, protótipo em HTML/CSS/JS, navegação e layout principal | ✅ |
 | **S02** | Sobre mim (PT/EN), projetos com linha do tempo, experiências, contato com ícones e formulário, validações e responsividade | ✅ |
-| **S03** | Deploy na nuvem, ajustes finais, imagens/GIFs dos projetos e README final | 🚧 |
+| **S03** | Deploy na nuvem, ajustes finais, imagens/GIFs dos projetos e README final | ✅ |
 
 ---
 
@@ -62,8 +62,10 @@
 ---
 
 ## 🔗 Links Úteis
-* 🌐 **Site publicado:** [Acesse o portfólio](https://gabrielcarvalhosoa.github.io/NOME-DO-REPOSITORIO/)
+* 🌐 **Site publicado:** [Acesse o portfólio](https://gabrielcarvalhosoa.github.io/)
   > 💻 **Descrição:** Versão em produção, hospedada gratuitamente no GitHub Pages.
+* 💻 **Repositório:** [gabrielcarvalhosoa/gabrielcarvalhosoa.github.io](https://github.com/gabrielcarvalhosoa/gabrielcarvalhosoa.github.io)
+  > 📦 **Descrição:** Código-fonte completo do site.
 * 🎨 **Protótipo no Figma:** [Veja os wireframes](https://cost-shut-59741518.figma.site/)
   > 🖼️ **Descrição:** Wireframes de média fidelidade das versões desktop e mobile feitas a partir dos Wireframes em SVG.
 * 📖 **Documentação:** [Pasta `docs/`](./docs)
@@ -86,7 +88,7 @@
 - 🌐 **Site bilíngue (PT/BR e EN):** switch no cabeçalho, sempre visível, que traduz todas as seções e lembra a escolha do visitante.
 - 🕒 **Projetos em linha do tempo:** ordem cronológica (do mais antigo ao mais recente), carrossel, filtro por tecnologia, imagem ou GIF, tecnologias e link do repositório.
 - 💼 **Experiências:** instituição, cargo ou atividade, período e descrição.
-- 🧰 **Habilidades e Formação.**
+- 🧰 **Habilidades:** linguagens, ferramentas e conceitos.
 - 📨 **Contato:** ícones clicáveis (e-mail, WhatsApp, LinkedIn e GitHub), download do currículo e formulário com validações e envio por e-mail.
 - 🌓 **Modo claro e escuro:** respeita a preferência do sistema e lembra a escolha do visitante.
 - 📱 **Responsivo e acessível:** mobile-first, HTML semântico, navegação por teclado e respeito a `prefers-reduced-motion`.
@@ -102,7 +104,7 @@
 * **Linguagem:** JavaScript ES6+ (sem framework ou biblioteca)
 * **Fontes:** Google Fonts (Space Grotesk e IBM Plex Sans)
 * **Ícones:** SVGs embutidos, adaptados do [Simple Icons](https://simpleicons.org)
-* **Gerenciamento de Estado:** variáveis simples em JavaScript e `localStorage` (tema)
+* **Gerenciamento de Estado:** variáveis simples em JavaScript e `localStorage` (tema e idioma escolhidos pelo visitante)
 * **Build Tool:** nenhuma (o site é estático)
 
 ### 🖥️ Back-end
@@ -126,6 +128,7 @@ O site é uma **aplicação estática de uma página**, dividida em três camada
 - **Sem framework:** o projeto é pequeno e estático, então HTML, CSS e JS puros mantêm o site leve, rápido e fácil de hospedar.
 - **Cores e fontes em variáveis CSS:** o tema claro/escuro e a troca de identidade visual acontecem em um único bloco.
 - **Carrossel e linha do tempo sincronizados:** a data escolhida na linha do tempo leva o carrossel ao projeto correspondente.
+- **Tradução sem biblioteca:** os textos fixos têm uma chave (`data-i18n`) e ficam no objeto `TEXTOS` do `script.js`, em português e inglês. O switch do cabeçalho troca o idioma de todo o site, inclusive dos conteúdos gerados por JavaScript, e o idioma escolhido é lembrado.
 - **Limitação:** as chaves do EmailJS ficam no front-end (são públicas por projeto). O uso indevido é controlado pelas restrições de domínio da conta.
 
 ### Fluxo do sistema
@@ -158,7 +161,7 @@ flowchart LR
 
 ### 🔑 Configuração do formulário (EmailJS)
 
-O site não usa arquivo `.env`: como é estático, as três chaves do EmailJS ficam no objeto `EMAILJS`, na seção 7 do `script.js`.
+O site não usa arquivo `.env`: como é estático, as três chaves do EmailJS ficam no objeto `EMAILJS`, na seção 6 do `script.js`.
 
 | Chave | Descrição | Onde encontrar |
 | :--- | :--- | :--- |
@@ -168,7 +171,7 @@ O site não usa arquivo `.env`: como é estático, as três chaves do EmailJS fi
 
 1. Crie uma conta em [emailjs.com](https://www.emailjs.com) e conecte seu e-mail em **Email Services**.
 2. Crie um template que use as variáveis `{{name}}`, `{{email}}` e `{{message}}` (e `{{email}}` em *Reply To*).
-3. Copie as três chaves para o objeto `EMAILJS` do `script.js`.
+3. Copie as três chaves para o objeto `EMAILJS` do `script.js`. O repositório já traz as chaves do autor; se você fizer um fork, use as suas.
 
 > [!IMPORTANT]
 > Ative as restrições de domínio na conta do EmailJS para impedir que terceiros usem suas chaves.
@@ -187,8 +190,8 @@ Não há nada a instalar (sem Node.js ou `npm`). As bibliotecas externas são ca
 Clone o repositório:
 
 ```bash
-git clone https://github.com/gabrielcarvalhosoa/NOME-DO-REPOSITORIO.git
-cd NOME-DO-REPOSITORIO
+git clone https://github.com/gabrielcarvalhosoa/gabrielcarvalhosoa.github.io.git
+cd gabrielcarvalhosoa.github.io
 ```
 
 ---
@@ -231,7 +234,10 @@ O site é estático e não precisa de build.
    ```
 2. No repositório, abra **Settings > Pages**.
 3. Em **Build and deployment**, escolha **Deploy from a branch**, branch `main` e pasta `/ (root)`.
-4. Aguarde alguns minutos e acesse o endereço exibido (`https://gabrielcarvalhosoa.github.io/NOME-DO-REPOSITORIO/`).
+4. Aguarde alguns minutos e acesse <https://gabrielcarvalhosoa.github.io/>.
+
+> [!NOTE]
+> O repositório se chama `gabrielcarvalhosoa.github.io`, nome reservado pelo GitHub para o site pessoal de cada usuário. Por isso o endereço publicado não leva o nome do repositório no final.
 
 **Alternativas gratuitas:** Vercel e Netlify também servem o site sem configuração (importe o repositório, sem comando de build).
 
@@ -242,19 +248,19 @@ O site é estático e não precisa de build.
 ```
 .
 ├── README.md                    # 📘 Documentação principal do projeto.
+├── LICENSE                      # ⚖️ Licença MIT.
 ├── index.html                   # 🧱 Estrutura da página e conteúdo fixo.
 ├── style.css                    # 🎨 Estilos, tema claro/escuro (variáveis) e responsividade.
-├── script.js                    # ⚙️ Projetos, linha do tempo, experiências, idioma, tema e formulário.
+├── script.js                    # ⚙️ Textos PT/EN, projetos, linha do tempo, experiências, tema, formulário e idioma.
 │
 ├── /img                         # 🖼️ Imagens do site.
-│   ├── logo.svg                 # 🏷️ Logo do portfólio.
+│   ├── logo.png                 # 🏷️ Logo do portfólio.
 │   ├── profile.jpg              # 👤 Foto de perfil.
-│   └── plantguard.gif           # 🎞️ Imagem ou GIF de cada projeto.
+│   └── plantguard.gif           # 🎞️ GIF do projeto PlantGuard em funcionamento.
 │
 └── /docs                        # 📚 Documentação.
     ├── Currículo.pdf            # 📄 Currículo para download.
-    ├── /wireframes              # 📐 Protótipos (SVG e PNG).
-    └── /screenshots             # 📸 Capturas de tela da seção Demonstração.
+    └── /wireframes              # 📐 Protótipos (SVG e PNG).
 ```
 
 ---
@@ -263,18 +269,13 @@ O site é estático e não precisa de build.
 
 ### 🌐 Aplicação Web
 
-| Tela | Captura de Tela |
-| :---: | :---: |
-| **Página Inicial (Home)** | **Projetos (linha do tempo e carrossel)** |
-| _Adicione `docs/screenshots/home.png`_ | _Adicione `docs/screenshots/projetos.png`_ |
-| **Sobre mim (PT/EN)** | **Contato (ícones e formulário)** |
-| _Adicione `docs/screenshots/sobre.png`_ | _Adicione `docs/screenshots/contato.png`_ |
+Acesse a versão publicada: **<https://gabrielcarvalhosoa.github.io/>**
 
-Projetos em funcionamento (GIFs):
+### 🎞️ Projeto em funcionamento
 
 | PlantGuard |
 | :---: |
-| _Adicione `img/plantguard.gif`_ |
+| <img src="img/plantguard.gif" alt="PlantGuard em funcionamento: sistema Arduino com sensores simulados monitorando o solo e acionando o relé da irrigação" width="400"> |
 
 ---
 
