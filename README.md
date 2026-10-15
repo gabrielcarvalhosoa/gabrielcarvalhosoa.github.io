@@ -273,9 +273,7 @@ Acesse a versão publicada: **<https://gabrielcarvalhosoa.github.io/>**
 
 ### 🎞️ Projeto em funcionamento
 
-| PlantGuard |
-| :---: |
-| <img src="img/plantguard.gif" alt="PlantGuard em funcionamento: sistema Arduino com sensores simulados monitorando o solo e acionando o relé da irrigação" width="400"> |
+**[Vídeo de Demonstração](demo/demonstração.mp4)**
 
 ---
 
