@@ -85,15 +85,15 @@ const projetos = [
         "Together with 4 other students, I developed an Arduino system that monitors soil temperature and moisture according to the cultivated plant, gives feedback on its current state and automatically waters it according to the soil's needs."
       ]
     },
-    data: "2026-07",   // TROQUE pela data real: "AAAA-MM" (ex.: "2026-06") ou só "AAAA"
-    imagem: "img/plantguard.gif",   // coloque aqui o print ou GIF do projeto funcionando
+    data: "2026-07",   // "AAAA-MM" ou "AAAA"
+    imagem: "img/plantguard.gif",  
     imagemAlt: {
       pt: "PlantGuard em funcionamento: sistema Arduino com sensores simulados monitorando e regando (ativando o relé da irrigação) o solo monitorado",
       en: "PlantGuard in action: Arduino system with simulated sensors monitoring the soil and watering it (activating the irrigation relay)"
     },
     tags: ["C++", "Arduino"],
-    codigo: "https://github.com/gabrielcarvalhosoa/PlantGuard", // link do repositório
-    demo: ""                                             // deixe vazio se não houver demo
+    codigo: "https://github.com/gabrielcarvalhosoa/PlantGuard", 
+    demo: ""
   },
 ];
 
