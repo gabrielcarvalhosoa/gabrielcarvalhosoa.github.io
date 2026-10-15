@@ -283,13 +283,13 @@ Acesse a versão publicada: **<https://gabrielcarvalhosoa.github.io/>**
 
 Por ser um site estático, não há testes automatizados nesta versão. Verificações manuais a realizar antes de cada publicação:
 
-- [ ] Layout em 320 px, 768 px e 1440 px de largura
-- [ ] Modo claro e escuro
-- [ ] Troca de idioma (PT/BR e EN) em todas as seções, no formulário e nos avisos
-- [ ] Navegação completa pelo teclado (Tab, Enter, setas no carrossel)
-- [ ] Formulário: campos vazios, e-mail inválido e envio com sucesso
-- [ ] Links externos (GitHub, LinkedIn, WhatsApp) e download do currículo
-- [ ] Lighthouse (desempenho, acessibilidade e SEO) no Chrome DevTools
+- [X] Layout em 320 px, 768 px e 1440 px de largura
+- [X] Modo claro e escuro
+- [X] Troca de idioma (PT/BR e EN) em todas as seções, no formulário e nos avisos
+- [X] Navegação completa pelo teclado (Tab, Enter, setas no carrossel)
+- [X] Formulário: campos vazios, e-mail inválido e envio com sucesso
+- [X] Links externos (GitHub, LinkedIn, WhatsApp) e download do currículo
+- [X] Lighthouse (desempenho, acessibilidade e SEO) no Chrome DevTools
 
 ---
 
