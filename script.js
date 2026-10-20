@@ -95,6 +95,28 @@ const projetos = [
     codigo: "https://github.com/gabrielcarvalhosoa/PlantGuard", 
     demo: ""
   },
+  {
+    titulo: "MediFind",
+    descricao: {
+      pt: [
+        "Aplicação mobile para busca facilitada de consultas médicas.",
+        "(Projeto em desenvolvimento)"
+      ],
+      en: [
+        "Mobile app for easy searching of medical appointments.",
+        "(Project in development)"
+      ]
+    },
+    data: "2026-12",   // "AAAA-MM" ou "AAAA"
+    imagem: "img/medifind_logo.png",  
+    imagemAlt: {
+      pt: "Logo MediFind",
+      en: "MediFind Logo"
+    },
+    tags: ["HTML", "CSS", "JavaScript", "JSON"],
+    codigo: "", 
+    demo: ""
+  },
 ];
 
 // Ordem cronológica: do mais antigo ao mais recente (usa o campo "data" de cada projeto)
