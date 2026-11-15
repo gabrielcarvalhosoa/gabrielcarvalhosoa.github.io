@@ -306,7 +306,7 @@ Por ser um site estático, não há testes automatizados nesta versão. Verifica
 
 | 👤 Nome | 🖼️ Foto | :octocat: GitHub | 💼 LinkedIn | 📤 Gmail |
 |---------|----------|-----------------|-------------|-----------|
-| Gabriel Carvalho Soares | <div align="center"><img src="img/profile.jpg" width="70px" height="70px"></div> | <div align="center"><a href="https://github.com/gabrielcarvalhosoa"><img src="https://joaopauloaramuni.github.io/image/github6.png" width="50px" height="50px"></a></div> | <div align="center"><a href="https://www.linkedin.com/in/gabrielcarvalhocomp"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png" width="50px" height="50px"></a></div> | <div align="center"><a href="mailto:gabrielcarvalhosoa@gmail.com"><img src="https://joaopauloaramuni.github.io/image/gmail3.png" width="50px" height="50px"></a></div> |
+| Gabriel Carvalho Soares | <div align="center"><img src="img/profile.jpg" width="70px" height="70px"></div> | <div align="center"><a href="https://github.com/gabrielcarvalhosoa"><img src="https://joaopauloaramuni.github.io/image/github6.png" width="50px" height="50px"></a></div> | <div align="center"><a href="https://www.linkedin.com/in/gabrielcarvalhosoa"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png" width="50px" height="50px"></a></div> | <div align="center"><a href="mailto:gabrielcarvalhosoa@gmail.com"><img src="https://joaopauloaramuni.github.io/image/gmail3.png" width="50px" height="50px"></a></div> |
 
 ---
 
